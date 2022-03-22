@@ -14,13 +14,13 @@ This repo consist of materials that I taught during my fellowship in Navgurukul.
 
 
 ```markdown
-git clone https://github.com/Pranav108/Navgurukul_JS_contents.git
+git clone https://github.com/Your-Username-Here/Navgurukul_JS_contents.git
 cd OOP_JS
 ```
 
 #### 3. Set your streams (For sync your clone with the original repo)
 ```markdown
-git remote add upstream https://github.com/Pranav108/Navgurukul_JS_contents.git
+git remote add upstream https://github.com/Your-Username-Here/Navgurukul_JS_contents.git
 git pull upstream master
 ```
 #### 4. Add your solution in `Script.js` file
